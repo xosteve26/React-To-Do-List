@@ -26,7 +26,6 @@ class App extends Component{
 
 
   }
-  //View Trash
  
 
   //Delete To-Do
