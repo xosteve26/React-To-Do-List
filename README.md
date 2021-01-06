@@ -1,3 +1,9 @@
+This is a small To-Do App made solely using REACT 
+
+This basic Todo App Performs the folowing functions:
+*Adding an item to the List
+*Deleting the item from the list 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -15,7 +21,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-This is a small To-Do App made solely using REACT 
+
 
 
 ### `npm test`
