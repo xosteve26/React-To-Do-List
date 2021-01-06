@@ -26,14 +26,11 @@ class App extends Component{
 
 
   }
- 
-
   //Delete To-Do
 
   delTodo = (id) => {
     this.setState({ todos: [...this.state.todos.filter(todo => todo.id!== id)]});
   }
-
 
   //Add To-Do
   addTodo = (t) => {
