@@ -4,6 +4,8 @@ This basic Todo App Performs the folowing functions:
 * Adding an item to the List
 * Deleting the item from the list 
 
+![sample](https://user-images.githubusercontent.com/73709251/103792063-35d6f480-5069-11eb-97ef-1bdac8440ffd.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
