@@ -1,7 +1,7 @@
 This is a small To-Do App made solely using REACT 
 
 This basic Todo App Performs the folowing functions:
-* Adding an item to the List
+* Adding a task to the List
 * Deleting the item from the list 
 * Scoring off completed tasks
 
